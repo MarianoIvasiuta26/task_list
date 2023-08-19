@@ -7,6 +7,18 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## About task_list
+Este es un proyecto para practicar la lógica de Laravel donde desarrollé una task list.
+
+### Implementaciones a futuro
+- **Agregar estilos CSS y Bootstrap 5 a la página de Logueo y registro.**
+- **Agregar estilos CSS y Bootstrap a los formularios de Login y Registro.**
+- **Agregar la funcionalidad de tachado y destachado de tareas completadas.**
+- **Agregar la funcionalidad de ocultar tareas vencidas.**
+- **Agregar la vista About y aplicar sus estilos CSS y Bootstrap.**
+- **Agregar alertas con SweetAlert2**
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
